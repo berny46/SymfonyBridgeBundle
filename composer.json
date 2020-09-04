@@ -1,5 +1,5 @@
 {
-    "name": "lightsaml/symfony-bridge-sf5",
+    "name": "lightsaml/symfony-bridge",
     "license": "MIT",
     "type": "symfony-bundle",
     "description": "Light SAML Symfony bridge bundle",
@@ -36,5 +36,5 @@
         "bin-dir": "bin"
     },
     "prefer-stable": true,
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
